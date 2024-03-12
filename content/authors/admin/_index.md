@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: 魏恒毅
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Heng Yi Wei
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: HengYi
+last_name: Wei
 
 # Status emoji
 status:
@@ -17,15 +17,15 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: 控制科学与工程硕士生在读
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: 天津大学
+    url: https://www.tju.edu.cn
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 我的研究兴趣包括分布式计算、人工智能和编程技术。
 
 # Interests to show in About widget
 interests:
